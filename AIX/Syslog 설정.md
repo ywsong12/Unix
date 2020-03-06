@@ -18,7 +18,7 @@
 10) cron : 크론 데몬 메세지
 11) caa : 클러스터 인식 AIX 서브시스템
 12) local0 ~ local7 : 로컬 사용을 위해 예약
-13) * : 모든 Facility
+13) `*` : 모든 Facility
 
 #### Priority(로그 등급) 설명
 1) emerg : 시스템 패닉으로 인한 메세지
